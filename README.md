@@ -1,16 +1,12 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Nikhil Hanumantu</h1>
 <h3 align="center">AI/ML Developer | Full-Stack Engineer | CS Undergrad</h3>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=nikhilhanumantu">
-    <img src="https://komarev.com/ghpvc/?username=nikhilhanumantu&label=Profile%20views&color=00FFFF&style=flat-square" alt="nikhilhanumantu's profile views" />
-  </a>
-</p>
 
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 🎓 B.Tech in Computer Science and Engineering, SRM University AP (CGPA: 9.01)
+- 🎓 B.Tech in Computer Science and Engineering, SRM University AP 
 - 💡 Passionate about building intelligent and scalable solutions for real-world problems
 - 🤖 Strong foundation in Data Structures, DBMS, Machine Learning, and Full-Stack Web Development
 - 🧑‍💻 Currently working as an AI/ML Intern, building real-time prediction systems
@@ -100,10 +96,10 @@
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/hanumantu-nikhil-a614a032a/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
   <a href="https://x.com/nikhilhanumantu">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
+    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Twitter" width="40" />
   </a>&nbsp;&nbsp;
   <a href="mailto:nikhilhanumantu23@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
@@ -111,10 +107,9 @@
 </p>
 
 ## 💬 Quote
-> Machine Learning & AI Model Development
-MERN Stack Web Development
-Computer Vision & OCR-based Applications
-Data Structures & Algorithms
+> Turning data into intelligence, ideas into applications, and challenges into solutions.
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
